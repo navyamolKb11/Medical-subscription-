@@ -1,0 +1,27 @@
+.header-box {
+
+  width: 1200px;
+  height: 200px;
+  border:1px solid red;
+          
+}
+.footer-box {
+  
+  height: 100px;
+  width: 1200px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background:black;
+  color:white;
+  text-align: center;
+          
+}
+.wrapper {
+
+  margin: 0 auto;
+  border: 5px solid green;
+  width: 1200px;
+
+}
